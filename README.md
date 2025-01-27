@@ -7,3 +7,6 @@ LocalShare was an idea to solve the problem we faced in Iran (with slow internet
 We are trying to make that idea to work with our limited knowledge (as we're just a bunch of CS students 😃). We are planning to make it using web technologies like WebRTC, etc.
 
 Stay tuned (if you're really interested).
+
+## GFDL License
+These documentations are licensed with [GNU Free Documentation License Version 1.3](https://www.gnu.org/licenses/fdl-1.3).
